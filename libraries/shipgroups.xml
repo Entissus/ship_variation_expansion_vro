@@ -10,7 +10,6 @@
 	<add sel="//groups/group[@name='arg_battleship_xl']">
 		<select macro="centaur_macro" weight="75"/>
 	</add> 
-  <remove sel="//groups/group[@name='ant_centaur_xl']" /> 
 	<add sel="//groups/group[@name='ant_battleship_xl']">
 		<select macro="centaur_macro" weight="75"/>
 	</add>	
