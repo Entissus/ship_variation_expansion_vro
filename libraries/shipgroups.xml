@@ -8,10 +8,10 @@
 
   <remove sel="//groups/group[@name='arg_centaur_xl']" /> 
 	<add sel="//groups/group[@name='arg_battleship_xl']">
-		<select macro="centaur_macro" weight="75"/>
+		<select macro="centaur_macro" weight="50"/>
 	</add> 
 	<add sel="//groups/group[@name='ant_battleship_xl']">
-		<select macro="centaur_macro" weight="75"/>
+		<select macro="centaur_macro" weight="50"/>
 	</add>	
   <remove sel="//groups/group[@name='ant_griffon_xl']" /> 
 	<add sel="//groups/group[@name='ant_battleship_xl']">
@@ -43,34 +43,34 @@
 <!-- Caiman --> 
   <remove sel="//groups/group[@name='spl_caiman_l']" /> 
 	<add sel="//groups/group[@name='spl_frigate_m']">
-		<select macro="caiman_macro" weight="40"/>
+		<select macro="caiman_macro" weight="35"/>
 	</add>		
 
 <!-- Scorpion -->
   <remove sel="//groups/group[@name='frf_scorpion_m']" /> 
-	<add sel="//groups/group[@name='frf_military_m']">
-		<select macro="scorpion_macro" weight="40"/>
+	<add sel="//groups/group[@name='frf_corvette_m']">
+		<select macro="scorpion_macro" weight="80"/>
 	</add>	
   <remove sel="//groups/group[@name='fal_scorpion_m']" /> 
-	<add sel="//groups/group[@name='frf_military_m']">
-		<select macro="scorpion_macro" weight="40"/>
+	<add sel="//groups/group[@name='frf_corvette_m']">
+		<select macro="scorpion_macro" weight="80"/>
 	</add>		
   <remove sel="//groups/group[@name='cub_scorpion_m']" /> 
 	<add sel="//groups/group[@name='cub_frigate_m']">
-		<select macro="scorpion_macro" weight="40"/>
+		<select macro="scorpion_macro" weight="60"/>
 	</add>		
 	
 <!-- Manticore/Mandalay/Skiron -->	
   <remove sel="//groups/group[@name='arg_manticore_l']" /> 
 	<add sel="//groups/group[@name='arg_frigate_m']">
-		<select macro="manticore_macro" weight="80"/>
-		<select macro="mandalay_macro" weight="40"/>		
+		<select macro="manticore_macro" weight="60"/>
+		<select macro="mandalay_macro" weight="30"/>		
 	</add>	
   <remove sel="//groups/group[@name='ant_manticore_l']" /> 
 	<add sel="//groups/group[@name='ant_frigate_m']">
 		<select macro="manticore_macro" weight="50"/>
 		<select macro="mandalay_macro" weight="40"/>
-		<select macro="skiron_macro" weight="30"/>		
+		<select macro="skiron_macro" weight="40"/>		
 	</add>	
   <remove sel="//groups/group[@name='sca_manticore_l']" /> 
 	<add sel="//groups/group[@name='sca_pirate_l']">
@@ -80,12 +80,12 @@
 <!-- Basilisk/Erebus -->	
   <remove sel="//groups/group[@name='arg_basilisk_l']" /> 
 	<add sel="//groups/group[@name='arg_destroyer_l']">
-		<select macro="basilisk_macro" weight="50"/>
+		<select macro="basilisk_macro" weight="40"/>
 		<select macro="erebus_macro" weight="45"/>		
 	</add>
  <remove sel="//groups/group[@name='ant_basilisk_l']" /> 
 	<add sel="//groups/group[@name='ant_destroyer_l']">
-		<select macro="basilisk_macro" weight="60"/>
+		<select macro="basilisk_macro" weight="35"/>
 		<select macro="erebus_macro" weight="40"/>		
 	</add>
  <remove sel="//groups/group[@name='sca_basilisk_l']" /> 
@@ -96,28 +96,28 @@
 <!-- Pallas -->	
   <remove sel="//groups/group[@name='par_pallas_l']" /> 
 	<add sel="//groups/group[@name='par_frigate_m']">
-		<select macro="pallas_macro" weight="50"/>
+		<select macro="pallas_macro" weight="45"/>
 	</add>	 	
   <remove sel="//groups/group[@name='hol_pallas_l']" /> 
 	<add sel="//groups/group[@name='hol_frigate_m']">
-		<select macro="pallas_mk2_macro" weight="50"/>
+		<select macro="pallas_mk2_macro" weight="45"/>
 	</add>	 
   <remove sel="//groups/group[@name='tri_pallas_l']" /> 
 	<add sel="//groups/group[@name='tri_frigate_m']">
-		<select macro="pallas_mk2_macro" weight="50"/>
+		<select macro="pallas_mk2_macro" weight="45"/>
 	</add>		
 	
 <!-- Taipan -->	
   <remove sel="//groups/group[@name='spl_taipan_l']" /> 
 	<add sel="//groups/group[@name='spl_destroyer_l']">
-		<select macro="taipan_macro" weight="70"/>
+		<select macro="taipan_macro" weight="35"/>
 	</add>	
 
 <!-- Razorbill -->	
   <remove sel="//groups/group[@name='min_razorbill_l']" />
   <remove sel="//groups/group[@name='tel_razorbill_l']" /> 
 	<add sel="//groups/group[@name='tel_destroyer_l']">
-		<select macro="razorbill_macro" weight="75"/>
+		<select macro="razorbill_macro" weight="55"/>
 	</add>
 
 <!-- Paracel -->	
