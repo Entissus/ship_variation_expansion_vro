@@ -40,7 +40,7 @@ The following ships have been removed from their unique group and changed to van
 - Scorpion - xxx_sorpion_m ==> frf_military_m and cub_frigate_m
   * Weight: 40
 
-Several of these ships are fully removed in SVE_VRO_Trimmed but my intention was to correct these here for anyone who does not want to use the Trimmed version but still use the other job heavy mods. What follows below is a raw paste of the jobs which are removed. TL:DR nearly every "military" related job has been removed **EXCEPT** for SCA/HAT, Kha'ak, Xenon, and Terran. Xenon need all the help they can and the jobs are (mostly) defensive. All "civilian" related jobs remain. For now.
+Several of these ships are fully removed in SVE_VRO_Trimmed but my intention was to correct these here for anyone who does not want to use the Trimmed version but still use the other job heavy mods. What follows below is a raw paste of the jobs which are removed. TL:DR nearly every "military" related job has been removed **EXCEPT** for SCA/HAT, Kha'ak, and Xenon. Xenon need all the help they can and the jobs are (mostly) defensive. All "civilian" related jobs remain. For now.
 
 - sel="//jobs/job[@id='argon_centaur_patrol_xl_center_galaxy']
 - sel="//jobs/job[@id='teladi_kea_patrol_m_border_cluster']
