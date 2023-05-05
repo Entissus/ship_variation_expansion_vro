@@ -39,3 +39,5 @@ The following ships have been removed from their unique group and changed to van
   * Weight: 40
 - Scorpion - xxx_sorpion_m ==> frf_military_m and cub_frigate_m
   * Weight: 40
+
+Several of these ships are fully removed in SVE_VRO_Trimmed but my intention was to correct these here for anyone who does not want to use the Trimmed version but still use the other job heavy mods.
