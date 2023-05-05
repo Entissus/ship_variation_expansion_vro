@@ -1,4 +1,4 @@
-Changes the following ships have been removed from their unique group and changed to vanilla game groups (X -> Y)
+The following ships have been removed from their unique group and changed to vanilla game groups (X -> Y)
 
 ## Argon & Antigone ##
 - Aamon - xxx_centaur_xl > arg_battleship_xl and ant_battleship_xl -- Weight: 75
