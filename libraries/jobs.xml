@@ -45,6 +45,10 @@
   <remove sel="//jobs/job[@id='zyarth_heavyfrigate_escort_l_noescort']" />  
   <remove sel="//jobs/job[@id='court_heavyfrigate_escort_l_noescort']" />
   <remove sel="//jobs/job[@id='argon_heavyfrigate_escort_l_escort']" />
+  <remove sel="//jobs/job[@id='ter_heavyfrigate_patrol_l']" />
+  <remove sel="//jobs/job[@id='ter_heavygunship_patrol_l']" />
+  <remove sel="//jobs/job[@id='ter_heavygunship_patrol_l_sector']" />
+  <remove sel="//jobs/job[@id='terran_heavygunship_escort_l']" />    
       
 <!--  
   <remove sel="//jobs/job[@id='']" />
