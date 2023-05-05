@@ -49,7 +49,23 @@
   <remove sel="//jobs/job[@id='ter_heavygunship_patrol_l']" />
   <remove sel="//jobs/job[@id='ter_heavygunship_patrol_l_sector']" />
   <remove sel="//jobs/job[@id='terran_heavygunship_escort_l']" />    
-      
+  <remove sel="//jobs/job[@id='teladi_tech_trader_xl_trader']" />
+  <remove sel="//jobs/job[@id='paranid_construction_trader_xl_trader']" />
+  <remove sel="//jobs/job[@id='argon_tech_trader_xl_trader']" />
+  <remove sel="//jobs/job[@id='antigone_equipment_trader_xl_trader']" />
+  <remove sel="//jobs/job[@id='antigone_equipment_trader_bio_xl_trader']" />
+  <remove sel="//jobs/job[@id='zyarth_equipment_trader_l_sve']" />  
+  <remove sel="//jobs/job[@id='zyarth_tech_trader_l_sve']" />
+  <remove sel="//jobs/job[@id='zyarth_ship_construction_trader_m_sve']" />
+  <remove sel="//jobs/job[@id='zyarth_free_miner_m_mineral_sve']" />
+  <remove sel="//jobs/job[@id='freesplit_equipment_trader_m_sve']" />
+  <remove sel="//jobs/job[@id='freesplit_ship_construction_trader_l_sve']" />
+  <remove sel="//jobs/job[@id='freesplit_tech_trader_l_sve']" />
+  <remove sel="//jobs/job[@id='freesplit_free_miner_m_mineral_sve']" /> 
+  <remove sel="//jobs/job[@id='holyorder_ship_construction_trader_m_extra']" />
+  <remove sel="//jobs/job[@id='holyorder_free_miner_m_mineral_extra']" />
+  <remove sel="//jobs/job[@id='argon_medical_trader_baku']" />
+  <remove sel="//jobs/job[@id='antigone_medical_trader_baku']" />  
 <!--  
   <remove sel="//jobs/job[@id='']" />
 -->  
