@@ -37,7 +37,7 @@
 	</add>
   <remove sel="//groups/group[@name='spl_python_l']" /> 
   <remove sel="//groups/group[@name='cub_python_l']" /> 
-	<add sel="//groups/group[@name='spl_battleship_xl']">
+	<add sel="//groups/group[@name='spl_destroyer_l']">
 		<select macro="python_macro" weight="40"/>
 	</add>	
  
@@ -117,7 +117,7 @@
 <!-- Razorbill -->	
   <remove sel="//groups/group[@name='min_razorbill_l']" />
   <remove sel="//groups/group[@name='tel_razorbill_l']" /> 
-	<add sel="//groups/group[@name='tel_frigate_m']">
+	<add sel="//groups/group[@name='tel_destroyer_l']">
 		<select macro="razorbill_macro" weight="75"/>
 	</add>
 
