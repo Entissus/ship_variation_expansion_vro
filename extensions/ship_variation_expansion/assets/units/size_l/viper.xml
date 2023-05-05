@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="../../../../../../xmllib/diff.xsd">
-  <remove sel="/components/component[@name='viper']" />
-</diff>
-
